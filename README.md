@@ -1,6 +1,6 @@
 # e-mail_newsletters
 
-- [DEMO LINK](e-mail-newsletters-fq63x6ua3-11olya112.vercel.app)
+- [DEMO LINK](url(e-mail-newsletters-fq63x6ua3-11olya112.vercel.app))
 
 ## Description
 
