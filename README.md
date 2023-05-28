@@ -4,7 +4,7 @@
 
 ## Description
 
-Using HTML,CSS
+Using HTML,CSS. Litmus PutsMail was used to test email campaigns.
 
 ### Installing
 * Fork and clone this repository
